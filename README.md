@@ -1,6 +1,8 @@
-# AngularFundamentals
+# AngularAdvanced
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.1.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
+
+This is part of the MPP Front-End Web Development course via EdX.org but has been updated to Angular Version 4.2.4
 
 ## Development server
 
